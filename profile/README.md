@@ -20,17 +20,17 @@ Green Cycle se tornou um ponto de encontro para aqueles que queriam fazer escolh
 ## [**Apresentação**](https://www.canva.com/design/DAGGtvfkeGk/ZnSnPfxi4opkvdF-tmhM0A/edit?utm_content=DAGGtvfkeGk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Equipe:
-- Web Developer (WD):
+### Web Developer (WD):
   - Alysson Tomizawa
   - Vinícius Corrêa da Silva Bueno
   - Pedro Drumond de Paula Pacheco
-- Quality Assurance (QA):
+### Quality Assurance (QA):
   - Christiane Ventura Correia    
   - Helen Fernanda Costa Pereira
   - Luna Marina Berriel
   - Miguel Ângelo Bicalho Miranda
   - Vitória Pacheco Rodrigues
-- Data Analyst (DA):
+### Data Analyst (DA):
   - Monica Hideco Prupst
-- Data Science (DS):
+### Data Science (DS):
   - Katia Goldchleger
