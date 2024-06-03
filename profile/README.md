@@ -58,6 +58,8 @@ Ao usar nossa plataforma, você não só adquire produtos de alta qualidade, mas
 Visite nosso site e explore a variedade de produtos sustentáveis disponíveis. Recicle, compre e faça a diferença!
 
 ## Demonstração
+[![image](https://github.com/Green-Cycle/.github/assets/52286387/7bc5b2d4-2ed6-45c7-9f3a-2a8c06568921)
+
 Experimente: [GreenCycle](https://green-cycle.netlify.app/)
 
 ## Documentação
